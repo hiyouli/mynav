@@ -29,8 +29,10 @@
 
 
 #### 克隆项目
+```
 git clone [https://github.com/hiyouli/mynav.git](https://github.com/hiyouli/mynav.git)
 cd mynav
+```
 
 #### 创建 D1 数据库并初始化数据表
 ```
